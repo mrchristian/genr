@@ -12,7 +12,7 @@ published: true
 post_date: 2018-07-02 17:52:39
 ---
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="is-small-text">Image: Jupiter's southern hemisphere was captured by NASA's Juno spacecraft on the outbound leg of a close flyby of the gas-giant planet, 11:31 p.m. PDT on May 23, 2018. Image credit: NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill. See: <a href="https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA22425" target="_blank">https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA22425</a></p>
+<p class="has-small-font-size">Image: Jupiter's southern hemisphere was captured by NASA's Juno spacecraft on the outbound leg of a close flyby of the gas-giant planet, 11:31 p.m. PDT on May 23, 2018. Image credit: NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill. See: <a href="https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA22425" target="_blank">https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA22425</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:block {"ref":341} /-->
@@ -392,7 +392,7 @@ post_date: 2018-07-02 17:52:39
 <!-- /wp:list -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator" />
+<hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
 <!-- wp:atomic-blocks/ab-accordion {"accordionTitle":"DOI:, 10.25815/3H8N-G736","accordionOpen":true} -->
@@ -407,7 +407,7 @@ post_date: 2018-07-02 17:52:39
 <!-- /wp:atomic-blocks/ab-accordion -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator" />
+<hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
@@ -443,7 +443,7 @@ post_date: 2018-07-02 17:52:39
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator" />
+<hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
