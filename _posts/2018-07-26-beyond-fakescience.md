@@ -51,9 +51,7 @@ post_date: 2018-07-26 18:27:47
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote">
-	<p><em>“For the statement that ‘Germany apparently plays a key role in this shady business’ (according to the Süddeutsche in a report on the research project) I find no evidence in my sample. Germany lies in the European average, does not stand out particularly with it and contributes to the total number of the articles evaluated here as said only 2.5%.”</em></p>
-</blockquote>
+<blockquote class="wp-block-quote"><p><em>“For the statement that ‘Germany apparently plays a key role in this shady business’ (according to the Süddeutsche in a report on the research project) I find no evidence in my sample. Germany lies in the European average, does not stand out particularly with it and contributes to the total number of the articles evaluated here as said only 2.5%.”</em></p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:heading -->
